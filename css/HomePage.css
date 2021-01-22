@@ -1,0 +1,77 @@
+.mainContainer{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #EBEAEB;
+}
+.heading{
+    display: flex;
+    flex-direction: row;
+    font-size: 50px;
+    margin-top: 5%;
+}
+.head-text{
+    color: #8A898A;
+    font-weight: 400k;
+}
+.s{
+    color: #F22C22;
+    font-size: 60px;
+}
+.t{
+    color: #04A8EC;
+    font-size: 60px;
+}
+.e{
+    color: #FE941F;
+    font-size: 60px;
+}
+.m{
+    color: #93B849;
+    font-size: 60px;
+}
+.scopes{
+    color: #003A7C;
+    font-size: 60px;
+}
+.PRESENTS{
+    font-weight: 800;
+    font-size: larger;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: #557394;
+}
+.row-text{
+    font-weight: 800;
+    font-size: larger;
+    margin-top: 2%;
+    color: #557394;
+}
+.box{
+    border: 3px solid #325679;
+    border-radius: 0.8em;
+    padding: 40px;
+    margin: 0 40px; 
+}
+.box-Container{
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    color: #557394;
+    font-weight: 700;
+    font-size: larger;
+    padding-bottom: 20px;
+}
+.image{
+    height: 200px;
+    width: 250px;
+}
+.box:hover {
+    background-color: #294561;   
+}
+body{
+    margin: 0;
+}
